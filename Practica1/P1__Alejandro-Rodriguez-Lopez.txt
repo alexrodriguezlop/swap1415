@@ -1,5 +1,5 @@
 
-Last login: Tue Mar  3 16:30:02 2015 from 172.16.219.1
+Last login: Tue Mar  3 16:30:02 2015 from 
 user@ubuntuServer-1:~$ apache2 -v
 Server version: Apache/2.2.22 (Ubuntu)
 Server built:   Jul 22 2014 14:37:02
