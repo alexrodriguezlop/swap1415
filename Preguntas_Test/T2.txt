@@ -6,11 +6,13 @@ D)Todas son correctas.
 
 Respuesta correcta: C.
 
+
+
 Los tiempos de no disponibilidad se clasifican en:
-A)Para mantenimiento y testeo.
+A)Mantenimiento y testeo.
 B)Programados y no programados.
 C)Graves y muy Graves.
-C)
-D)
+C)Actualización y diagnostico.
+D)Justificados e injustificados.
 
-Respuesta correcta:
+Respuesta correcta: B.
