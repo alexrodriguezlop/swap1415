@@ -58,7 +58,7 @@ Otra manera si usamos el link mas de una vez sería:
 
 Cada vez que aparece [alexrodriguezlop], será linkeado. Basta con definir qué es [alexrodriguezlop] al final del párrafo o en cualquier otro lugar del documento, para que Markdown identifique [alexrodriguezlop] como un link válido.
 
-[alexrodriguezlop]: http://www.alexrodriguezlop.es “alexrodriguezlop”
+[alexrodriguezlop]: (http://www.alexrodriguezlop.es) “alexrodriguezlop”
 
 
 
