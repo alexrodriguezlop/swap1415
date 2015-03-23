@@ -19,4 +19,4 @@
 	* [Práctica 2](Prácticas/Práctica2)
 	* [Práctica 3](Prácticas/Práctica3)
 
-**[Compañero de prácticas:** *Antonio Cordonie Campos* ](https://github.com/antoniocordonie/SWAP2015)
+*[Compañero de prácticas: Antonio Cordonie Campos ](https://github.com/antoniocordonie/SWAP2015)*
