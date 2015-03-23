@@ -27,5 +27,5 @@
 **Respuesta correcta: C**
 
 
-*[Volver a ínicio](/swap2015)
-*[Volver a preguntas tipo test](/swap2015/Preguntas_Test)
+*[Volver a ínicio](/)
+*[Volver a preguntas tipo test](/)
