@@ -1,7 +1,7 @@
 #Preguntas tipo test - Tema2
 
 
-**Los tiempos de no disponibilidad se clasifican en: **
+**Los tiempos de no disponibilidad se clasifican en:**
 
 
 **A)** *Mantenimiento y testeo.*
@@ -21,7 +21,7 @@
 
 
 
-**La ampliacion vertical consiste en: **
+**La ampliacion vertical consiste en:**
 
 
 **A)** *Ampliar el número de servidores de un rack.*
