@@ -3,10 +3,10 @@
 **Índice de contenido:**
 
 1. *[Preguntas tipo test](Preguntas_Test)*
-	* [Tema 1](Preguntas_Test/Tema1)
-	* [Tema 2](Preguntas_Test/Tema2)
-	* [Tema 3](Preguntas_Test/Tema3)
-	* [Tema 4](Preguntas_Test/Tema4)
+	* [Tema 1](Preguntas_Test/Tema1.mb)
+	* [Tema 2](Preguntas_Test/Tema2.mb)
+	* [Tema 3](Preguntas_Test/Tema3.mb)
+	* [Tema 4](Preguntas_Test/Tema4.mb)
 
 2. *[Ejercicios del tema](Ejercicios)*
 	* [Tema 1](Ejercicios/Ejercicios_T1)
