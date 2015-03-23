@@ -28,4 +28,4 @@
 
 
 *[Volver a ínicio](../../../)
-*[Volver a preguntas tipo test](../)
+*[Volver a preguntas tipo test](../../../Preguntas_Test)
