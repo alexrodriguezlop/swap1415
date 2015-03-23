@@ -16,8 +16,9 @@
 	`$> rsync -avz -e ssh root@maquina1:/var/www/ /var/www/`
 	
 	**Haciendo la sincronización entre los directorios sincronizando unicamente los cambios y evitando sincronizar los logs**
-
-	`rsync -avz --delete --exclude=**/stats --exclude=**/error --exclude=**/files/pictures -e "ssh -l root" root@maquina1:/var/www/ /var/www/`
+	´´
+	rsync -avz --delete --exclude=**/stats --exclude=**/error --exclude=**/files/pictures -e 
+	"ssh -l root" root@maquina1:/var/www/ /var/www/`
 
 	![Imagen 2.4](Capturas/2.4__.png "Práctica 2.4")
 	
