@@ -13,8 +13,7 @@
 
 **Respuesta correcta: C**
 
-
-
+***
 
 **¿Cual es la principal causa de que un sitio web sea inestable, se colapse y caiga con frecuencia?**
 
