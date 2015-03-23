@@ -14,6 +14,8 @@
 **Respuesta correcta: C**
 
 
+
+
 **¿Cual es la principal causa de que un sitio web sea inestable, se colapse y caiga con frecuencia?**
 
 **A)** *No disponer de la ultima tecnología en servidores de altas prestaciones.*
@@ -28,4 +30,5 @@
 
 
 *[Volver a ínicio](../../../)
+
 *[Volver a preguntas tipo test](../../../Preguntas_Test)
