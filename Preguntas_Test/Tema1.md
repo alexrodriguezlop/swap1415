@@ -27,5 +27,5 @@
 **Respuesta correcta: C**
 
 
-*[Volver a ínicio](../../)
+*[Volver a ínicio](../../../)
 *[Volver a preguntas tipo test](../)
