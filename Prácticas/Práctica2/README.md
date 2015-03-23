@@ -41,6 +41,7 @@
 	![Imagen 2.3](Capturas/2.3__.png "Práctica 2.3")
 	
 	**Haciendo una prueba de sincronizacion mediante ssh de los directorios** *WWW.*
+	**Nota:** *En caso de que quisieramos usar un usuario distinto a ROOt bastaría con darle permisos R&W sobre la carpeta WWW.* 
 
 	`$> rsync -avz -e ssh root@192.168.1.10:/var/www/ /var/www/ `
 	
