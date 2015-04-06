@@ -105,6 +105,43 @@
 	*Basta con añadir la directiva* **keepalive** *y su tiempo de vida al definir el upstream.*
 	
 	![Imagen 2](Capturas/4.4__.png "Práctica 3.2")
+
+
+
+3. ## Balanceo de carga usando haproxy.
+	
+	**Instalando haproxy**
+	
+	`$> sudo apt-get install haproxy joe`
+
+	**Configuración básica de haproxy como balanceador de carga**
+
+	![Imagen 2.1](Capturas/5__.png "Práctica 3.3")
+
+	![Imagen 2.2](Capturas/5.1__.png "Práctica 3.3")
+	
+	**Comprobando el funcionamiento del balanceador**
+	
+	*Si tenemos instalado nginx debemos tirar el servicio:*
+
+	`$> service nginx stop`	
+
+	*Una vez configurado relanzamos el servicio:*
+	
+	`$> sudo /usr/sbin/haproxy -f /etc/haproxy/haproxy.cfg`
+
+	![Imagen 2.3](Capturas/5.2__.png "Práctica 3.3")
+
+	*Lo probamos mediante:*
+	
+	`$> curl http://192.168.1.5`
+
+	`$> curl http://192.168.1.5`
+
+	![Imagen 2.4](Capturas/5.3__.png "Práctica 3.3")
+
+
+**Autores:** *Alejandro Rodríguez López y Antonio Cordonie Campos*	
 		
 	
 
