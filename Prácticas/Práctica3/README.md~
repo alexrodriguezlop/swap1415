@@ -1,20 +1,35 @@
 #Práctica 3
 
+
 0. ##Estructura del entorno virtual.
+
 	**Maquina de balanceo:** *192.168.1.5*
 
+
+
 1. ##Instalar nginx en Ubuntu Server.
+
 	**Importamos la clave:**
+
 	*Nos posicionamos en el directorio tmp donde descargaremos la clave del repositorio*
+
 	`$> cd /tmp/`
+
 	*Obtenemos las clave del repositorio*
+
 	`$> wget http://nginx.org/keys/nginx_signing.key`
+
 	*La añadimos a nuestra lista de claves*
+
 	`$> apt-key add /tmp/nginx_signing.key`
+
 	*Ya podemos eliminarla de tmp*
+
 	`$> rm -f /tmp/nginx_signing.key`
+
 	
 	![Imagen 1](Capturas/1__.png "Práctica 3.1")
+
 
 
 	**añadimos el repositorio, editando el fichero /etc/apt/sources.list**
@@ -25,27 +40,38 @@
 
 	![Imagen 1.2](Capturas/2__.png "Práctica 3.1")
 
+
+
 	**instalamos el paquete del nginx:**
+
 	`$> apt-get update`
 	
 	![Imagen 1.3](Capturas/3__.png "Práctica 3.1")
+
 	`$> apt-get install nginx`
 	
 	![Imagen 1.4](Capturas/3.1__.png "Práctica 3.1")
+
 	![Imagen 1.5](Capturas/3.2__.png "Práctica 3.1")
 
 	*sí ocurriera este error es debido a que el puerto 80 esta ocupado.*
+
 	*En este caso por apache.*
+
 	*Podemos desinstalarlo usando:*
 	
 	`$> sudo service apache2 stop`
+
 	`$> sudo apt-get purge apache2*`
+
 	`$> sudo apt-get autoremove`
+
 	`$> sudo rm -Rf /etc/apache2 /usr/lib/apache2 /usr/include/apache2`
 	
 	*Levantamos el servicio: *
 
 	`$> sudo service nginx start`
+
 
 
 2. ## Balanceo de carga usando nginx.
