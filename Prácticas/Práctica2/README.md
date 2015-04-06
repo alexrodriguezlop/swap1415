@@ -5,7 +5,7 @@
 
 	**Maquina de respaldo:** *192.168.1.20*
 
-1. ###Crear un tar con ficheros locales en un equipo remoto
+1. ###Crear un tar con ficheros locales en un equipo remoto.
 	**Lo haremos mediante la orden:**
 
 	`$> tar czf - directorio | ssh equipodestino 'cat > ~/tar.tgz'`
