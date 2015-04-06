@@ -9,7 +9,7 @@
 
 1. ###Instalar nginx en Ubuntu Server.
 
-	**Importamos la clave:**
+	**Importando la clave:**
 
 	*Nos posicionamos en el directorio tmp donde descargaremos la clave del repositorio*
 
@@ -32,7 +32,7 @@
 
 
 
-	**añadimos el repositorio, editando el fichero /etc/apt/sources.list**
+	**Añadiendo el repositorio, editando el fichero /etc/apt/sources.list**
 
 	`$> echo "deb http://nginx.org/packages/ubuntu/ lucid nginx" >> /etc/apt/sources.list`
 	
@@ -42,7 +42,7 @@
 
 
 
-	**instalamos el paquete del nginx:**
+	**Instalando el paquete del nginx:**
 
 	`$> apt-get update`
 	
