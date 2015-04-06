@@ -7,7 +7,7 @@
 
 
 
-1. ##Instalar nginx en Ubuntu Server.
+1. ###Instalar nginx en Ubuntu Server.
 
 	**Importamos la clave:**
 
@@ -74,7 +74,7 @@
 
 
 
-2. ## Balanceo de carga usando nginx.
+2. ###Balanceo de carga usando nginx.
 
 	**Configurando nginx**
 	
@@ -108,7 +108,7 @@
 
 
 
-3. ## Balanceo de carga usando haproxy.
+3. ###Balanceo de carga usando haproxy.
 	
 	**Instalando haproxy**
 	
