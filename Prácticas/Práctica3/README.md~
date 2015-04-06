@@ -90,13 +90,13 @@
 
 	**Configurando cargas personalizadas**	
 
-	*Basta con añadir la carga deseada **weight** a cada servidor.*
+	*Basta con añadir la carga deseada* **weight** *a cada servidor.*
 	
 	![Imagen 1.8](Capturas/4.2__.png "Práctica 3.2")
 
 	**Configurando el trafico para que guarde fidelidad**	
 
-	*Basta con añadir la directiva **ip_hash** al definir el upstream.*
+	*Basta con añadir la directiva* **ip_hash** *al definir el upstream.*
 	
 	![Imagen 1.9](Capturas/4.3__.png "Práctica 3.2")
 		

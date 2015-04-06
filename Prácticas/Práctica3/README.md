@@ -102,7 +102,7 @@
 		
 	**Configurando nginx para que use** *keepalive*	
 
-	*Basta con añadir la directiva **keepalive** y su tiempo de vida al definir el upstream.*
+	*Basta con añadir la directiva* **keepalive** *y su tiempo de vida al definir el upstream.*
 	
 	![Imagen 2](Capturas/4.4__.png "Práctica 3.2")
 		
