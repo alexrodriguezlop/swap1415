@@ -21,3 +21,7 @@
 	user@ubuntuServer-1:~$
 	```
 	![Imagen 1](Capturas/1__.png "Práctica 1")
+
+
+
+**Autores:** *Alejandro Rodríguez López y Antonio Cordonie Campos*
