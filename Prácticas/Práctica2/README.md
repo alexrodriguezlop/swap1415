@@ -10,7 +10,7 @@
 
 	`$> tar czf - directorio | ssh equipodestino 'cat > ~/tar.tgz'`
 
-	![Imagen 1](Capturas/1__.png "Práctica 1")
+	![Imagen 1](Capturas/1__.png "Práctica 2")
 
 2. ###Instalar la herramienta rsync
 	**Seguiremos las siguientes ordenes:**
