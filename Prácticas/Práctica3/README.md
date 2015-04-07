@@ -154,8 +154,6 @@
 
 	![Imagen 2.5](Capturas/5.4__.png "Práctica 3.3")
 
-3. ###comprobando el funcionamiento de los algoritmos de balanceo.
-
 
 
 **Autores:** *Alejandro Rodríguez López y Antonio Cordonie Campos*	

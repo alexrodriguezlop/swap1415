@@ -82,29 +82,37 @@
 	
 	![Imagen 1.6](Capturas/4__.png "Práctica 3.2")
 
-	**Probando nginx**
-	
-	`$> curl http://192.168.1.5`
-
-	![Imagen 1.7](Capturas/4.1__.png "Práctica 3.2")
-
 	**Configurando cargas personalizadas**	
 
 	*Basta con añadir la carga deseada* **weight** *a cada servidor.*
 	
-	![Imagen 1.8](Capturas/4.2__.png "Práctica 3.2")
+	![Imagen 1.8](Capturas/4.1__.png "Práctica 3.2")
 
 	**Configurando el trafico para que guarde fidelidad**	
 
 	*Basta con añadir la directiva* **ip_hash** *al definir el upstream.*
 	
-	![Imagen 1.9](Capturas/4.3__.png "Práctica 3.2")
+	![Imagen 1.9](Capturas/4.2__.png "Práctica 3.2")
 		
 	**Configurando nginx para que use** *keepalive*	
 
 	*Basta con añadir la directiva* **keepalive** *y su tiempo de vida al definir el upstream.*
 	
-	![Imagen 2](Capturas/4.4__.png "Práctica 3.2")
+	![Imagen 2](Capturas/4.3__.png "Práctica 3.2")
+	
+	**Probando nginx**
+	
+	`$> curl http://192.168.1.5`
+
+	![Imagen 1.7](Capturas/4.4__.png "Práctica 3.2")
+
+	**round-robin** 
+
+	![Imagen 2.4](Capturas/4.5__.png "Práctica 3.2")
+
+	**Usando ponderación**
+
+	![Imagen 2.5](Capturas/4.6__.png "Práctica 3.2")
 
 
 
@@ -137,8 +145,15 @@
 	`$> curl http://192.168.1.5`
 
 	`$> curl http://192.168.1.5`
+	
+	**round-robin** 
 
 	![Imagen 2.4](Capturas/5.3__.png "Práctica 3.3")
+
+	**Usando ponderación**
+
+	![Imagen 2.5](Capturas/5.4__.png "Práctica 3.3")
+
 
 
 **Autores:** *Alejandro Rodríguez López y Antonio Cordonie Campos*	
