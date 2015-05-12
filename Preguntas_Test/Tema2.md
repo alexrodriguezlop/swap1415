@@ -18,8 +18,7 @@
 
 **Respuesta correcta: B**
 
-
-
+***
 
 **La ampliacion vertical consiste en:**
 

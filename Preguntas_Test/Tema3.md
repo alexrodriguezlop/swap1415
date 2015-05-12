@@ -1,42 +1,40 @@
--#Preguntas tipo test - Tema
+#Preguntas tipo test - Tema3
 
 
-****
+**Cual de las configuraciones DMZ es la mas segura:**
 
 
-**A)** **
+**A)** *DMZ simple.*
 
 
-**B)** **
+**B)** *DMZ tradicional.*
 
 
-**C)** **
+**C)** *DMZ doble*
 
 
-**D)** **
+**D)** *Ninguna es segura.*
 
 
-**Respuesta correcta: **
-
-
-
+**Respuesta correcta: C**
 
 ****
 
+**Para garantizar la seguridad del sistema aquellos servicios que se ofrecen a traves de internet deben obtener salida mediante:**
 
-**A)** **
-
-
-**B)** **
+**A)** *front-rail.*
 
 
-**C)** **
+**B)** *back-rail.*
 
 
-**D)** **
+**C)** *Respuesta A y B son correctas.*
 
 
-**Respuesta correcta: **
+**D)** *Ningura respuesta es correcta.*
+
+
+**Respuesta correcta: *A*
 
 
 *[Volver a ínicio](../../../)

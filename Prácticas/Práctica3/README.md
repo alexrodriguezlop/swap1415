@@ -122,9 +122,9 @@
 	
 	`$> sudo apt-get install haproxy joe`
 
-	**Configuración básica de haproxy como balanceador de carga**
-
 	![Imagen 2.1](Capturas/5__.png "Práctica 3.3")
+
+	**Configuración básica de haproxy como balanceador de carga**
 
 	![Imagen 2.2](Capturas/5.1__.png "Práctica 3.3")
 	
