@@ -33,7 +33,7 @@
 **D)** *Es la forma de hacer que el conjunto de máquinas de la granja web aparezca como una sola.*
 
 
-**Respuesta correcta: *A*
+**Respuesta correcta: A**
 
 
 *[Volver a inicio](../../../)

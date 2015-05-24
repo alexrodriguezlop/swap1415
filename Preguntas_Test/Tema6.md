@@ -33,7 +33,7 @@
 **D)** *Todas son las anteriores son correctas.*
 
 
-**Respuesta correcta: *D*
+**Respuesta correcta: D**
 
 
 *[Volver a inicio](../../../)
