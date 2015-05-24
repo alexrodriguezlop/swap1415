@@ -19,18 +19,18 @@
 
 ****
 
-**:**
+**¿Cual de las siguientes afirmaciones no es cierta con respecto al término VIP (Virtual IP)?:**
 
-**A)** **
-
-
-**B)** **
+**A)** *Es la dirección pública a la que acceden los usuarios cuando piden un servicio al sistema.*
 
 
-**C)** **
+**B)** *Suele ser la IP del balanceador de carga.*
 
 
-**D)** **
+**C)** *Suele ser la IP del cortafuegos*
+
+
+**D)** *Es la forma de hacer que el conjunto de máquinas de la granja web aparezca como una sola.*
 
 
 **Respuesta correcta: *A*
