@@ -1,7 +1,7 @@
 #Práctica 4
 
 
-1. ###Estructura del entorno virtual.
+0. ###Estructura del entorno virtual.
 
 	**Maquina1:** *192.168.1.10*
 

@@ -16,7 +16,7 @@
 	* [Práctica 1](Prácticas/Práctica1)
 	* [Práctica 2](Prácticas/Práctica2)
 	* [Práctica 3](Prácticas/Práctica3)
-	* [Práctica 4](Prácticas/Práctica4)
+	* [Práctica 4](Prácticas/práctica4)
 	* [Práctica 5](Prácticas/Práctica5)
 	* [Práctica 6](Prácticas/Práctica6)
 
