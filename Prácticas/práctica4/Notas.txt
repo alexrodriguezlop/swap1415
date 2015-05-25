@@ -1,0 +1,22 @@
+Para hacer la práctica instalar una máquina nueva UbuntuServer4Pruebas
+
+Hacer la bateria de pruebas con AB, httperf, openwebload.
+
+Pruebas:
+
+Si no lo has hecho aun hacerla solo con el AB y el siege. Olvidarnos del Httperf y del openwebload que estan fallando.
+
+*Apache Benchmark:
+*Maquina4 contra la maquina1:
+	ab -n 100000 -c 100 http://192.168.1.10
+	siege -b -t60S -v http://192.168.1.10/script.php >> siege
+	Un bloque de 100 peticiones concurrentes y las manda a la maquina1. Justo a continuacion genera otro bloque de 100 peticiones
+	y las vuelve a enviar a la maquina1. Así sin esperar 100.000
+	Hacerlo contra la granja trabajando el nginx y contra la granja con el haproxy.
+	Guardamos los valores en una hora de calculo y hacemos grafica. (Recogemos los 4 valores y Hacemos media y desviacion estandar de 
+	Time taken for tests, Failed requests, Reguests per second, Time por request) 4 GRAFICAS.
+	
+*Hacer los mismo con el HTTPERF(Total connections, Request rate, Errors, total, replies)
+
+ y OPENWEBLOAD No se le puede indicar el numero de peticiones a realizar. Hcer una ejecucion y el mismo en cuanto termina nos muestra los resultados
+en media TotalTPS, Avg. Resp. Time, Max. Resp. Time.
