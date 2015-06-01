@@ -20,7 +20,7 @@
 	* [Práctica 5](Prácticas/Práctica5)
 	* [Práctica 6](Prácticas/Práctica6)
 
-3. *[Proyecto](Proyecto)*
+3. *[TrabajoFinal](TrabajoFinal)*
 
 **Compañero de prácticas:** *[Antonio Cordonie Campos ](https://github.com/antoniocordonie/SWAP2015)*
 
