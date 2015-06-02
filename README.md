@@ -24,4 +24,4 @@
 
 **Compañero de prácticas:** *[Antonio Cordonie Campos ](https://github.com/antoniocordonie/SWAP2015)*
 
-**Fecha de presentación solicitada:** *1/junio/2015*
+**Fecha de presentación:** *1/junio/2015*
