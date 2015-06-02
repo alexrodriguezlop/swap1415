@@ -30,12 +30,12 @@
 **C)** *Hace referencia a la velocidad máxima de comunicacion entre servidores.*
 
 
-**D)** *Hace referencia rendimiento que ofrece el ancho de banda al procesar peticiones.
+**D)** *Hace referencia rendimiento que ofrece el ancho de banda al procesar peticiones.*
 
 
 **Respuesta correcta: B**
 
 
-*[Volver a inicio](../../../)
+[Volver a inicio](../../../)
 
-*[Volver a preguntas tipo test](../../../Preguntas_Test)
+[Volver a preguntas tipo test](../../../Preguntas_Test)

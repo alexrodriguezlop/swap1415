@@ -36,6 +36,6 @@
 **Respuesta correcta: A**
 
 
-*[Volver a inicio](../../../)
+[Volver a inicio](../../../)
 
-*[Volver a preguntas tipo test](../../../Preguntas_Test)
+[Volver a preguntas tipo test](../../../Preguntas_Test)
