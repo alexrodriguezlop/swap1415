@@ -1,6 +1,6 @@
-#Prácticas
+# Prácticas
 
-##Índice de contenidos
+## Índice de contenidos
 
 1. **Prácticas**
 	* [Práctica 1](Práctica1)
